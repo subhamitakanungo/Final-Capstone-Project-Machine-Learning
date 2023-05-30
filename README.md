@@ -2,19 +2,19 @@
 # Final-Capstone-Project-Machine-Learning
 Motor_insurance_claim_Prediction Using ML
 # Abstract:
->### The goal of this project is to develop a machine learning model that predicts the claim amount for Motor insurance based on various features. By accurately estimating the claim amount, insurance companies can better manage their risk and make informed decisions.
+> The goal of this project is to develop a machine learning model that predicts the claim amount for Motor insurance based on various features. By accurately estimating the claim amount, insurance companies can better manage their risk and make informed decisions.
 # Content:
->### The problem addressed is predicting the claim amount for Motor Insurance using machine learning algorithms. The aim is to build a model that accurately predicts the claim amount based on various customer and policy-related features. The model should be able to analyze the given features and provide an estimation of the expected claim amount for an insurance policy.
+> The problem addressed is predicting the claim amount for Motor Insurance using machine learning algorithms. The aim is to build a model that accurately predicts the claim amount based on various customer and policy-related features. The model should be able to analyze the given features and provide an estimation of the expected claim amount for an insurance policy.
 ## Study of Existing Systems:
->### An analysis of existing systems for Motor Insurance claim prediction reveals that traditional methods often rely on manual assessment and expert judgment, leading to subjective and potentially inaccurate claim estimations. There is a need for a data-driven approach that leverages machine learning techniques to improve the accuracy and efficiency of claim amount predictions.
+> An analysis of existing systems for Motor Insurance claim prediction reveals that traditional methods often rely on manual assessment and expert judgment, leading to subjective and potentially inaccurate claim estimations. There is a need for a data-driven approach that leverages machine learning techniques to improve the accuracy and efficiency of claim amount predictions.
 ## Identification of Gaps in Existing Systems:
->### Existing systems lack the ability to quantitatively estimate the claim amount based on various factors and features associated with the customer and policy. The reliance on manual assessment introduces subjectivity and inconsistency in claim estimations. Additionally, traditional methods may not effectively capture the complex relationships and patterns within the data, resulting in suboptimal predictions.
+> Existing systems lack the ability to quantitatively estimate the claim amount based on various factors and features associated with the customer and policy. The reliance on manual assessment introduces subjectivity and inconsistency in claim estimations. Additionally, traditional methods may not effectively capture the complex relationships and patterns within the data, resulting in suboptimal predictions.
 ## Proposed Solution:
->### The proposed solution involves developing a machine learning model that utilizes the available features such as customer demographics, policy details, and historical claim data to predict the claim amount accurately. By leveraging advanced algorithms and techniques, the model aims to uncover patterns, relationships, and dependencies within the data to make reliable predictions.
+> The proposed solution involves developing a machine learning model that utilizes the available features such as customer demographics, policy details, and historical claim data to predict the claim amount accurately. By leveraging advanced algorithms and techniques, the model aims to uncover patterns, relationships, and dependencies within the data to make reliable predictions.
 ## Main Objective:
->### The main objective of this project is to build a robust and accurate machine learning model that can predict the claim amount for Motor Insurance policies. By accurately estimating the claim amount, insurance companies can better manage their claims processing, assess risk, and allocate resources effectively.
+> The main objective of this project is to build a robust and accurate machine learning model that can predict the claim amount for Motor Insurance policies. By accurately estimating the claim amount, insurance companies can better manage their claims processing, assess risk, and allocate resources effectively.
 ## Data Description:
-The dataset used in this project consists of historical data related to Motor insurance claims. It contains information about different features such as the policy holder's vehicle information, policy details, and previous claim history. The target variable is the claim amount, which represents the monetary value of the insurance claim.
+> The dataset used in this project consists of historical data related to Motor insurance claims. It contains information about different features such as the policy holder's vehicle information, policy details, and previous claim history. The target variable is the claim amount, which represents the monetary value of the insurance claim.
 ## Tools used to implement proposed solution:
 - Python
 - Pandas
