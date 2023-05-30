@@ -1,4 +1,5 @@
 # Final-Capstone-Project-Machine-Learning
+Motor_insurance_claim_Prediction Using ML
 # Abstract:
 >### The goal of this project is to develop a machine learning model that predicts the claim amount for Motor insurance based on various features. By accurately estimating the claim amount, insurance companies can better manage their risk and make informed decisions.
 # Content:
