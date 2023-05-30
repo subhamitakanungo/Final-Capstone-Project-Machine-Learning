@@ -1,4 +1,4 @@
-![Motor Insurance](https://www.servicenow.com/workflow/it-transformation/nationwide-insurance-digital-transformation/)
+![Motor Insurance](https://www.weblineindia.com/wp-content/uploads/2019/08/Business.gif)
 # Final-Capstone-Project-Machine-Learning
 Motor_insurance_claim_Prediction Using ML
 # Abstract:
